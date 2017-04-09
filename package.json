@@ -1,10 +1,10 @@
 {
-  "name": "chat-example",
-  "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
-  "main": "server.js",
-  "repository": "",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "name": "shippo-and-slack",
+  "version": "0.0.1",
+  "description": "Create, track, and track shippments in shippo from slack",
+  "main": "track.js",
+  "repository": "https://github.com/blackjoyco/shippo-and-slack",
+  "author": "Brandon Benjamin <brandon@blackjoy.co>",
   "dependencies": {
     "async": "~0.2.8",
     "express": "~3.2.4",
